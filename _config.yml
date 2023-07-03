@@ -77,7 +77,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
     - label: "Fediverse"
-      icon: "fab fa-fw fa-fediverse"
+      icon: "fab fa-fw fa-mastodon"
       url: "https://pl.starnix.network/users/CJLinuxGamer"
 
 footer:
