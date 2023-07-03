@@ -16,3 +16,11 @@ Lets start by talking about what Vivaldi claims to be; according to their websit
 As a Linux user, the ability to install on Linux is a plus, and it is very customisable, it's comparible to KDE Plasma or Linux as a whole in terms of the options available. I do like that, however it doesn't offer certain options to customise the UI to be the exact way that I want. Now, I also don't have a need for all of the bells and whistles that Vivaldi provides.
 
 Now, to sum up, Vivaldi is full of features, implemented into the one app, available on all systems (from Windows, MacOS, Linux, to Android and iOS), it has decent default themes and recommendations for themes when you go to the store, as it's based on Chromium it has the Chrome Web Store, but this browser is basically the Emacs of browsers, if that's what you like, then sure, check it out, but for the general web user, it's not needed, I'd recommend going for a smaller project like Brave or base Chromium. And that's it for this blog post, so I'll catch you all in the next one and have a good rest of your timezone. :wave:
+
+<script src="https://utteranc.es/client.js"
+        repo="LinuxGamer/sitebeta"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -9,3 +9,11 @@ comments: utterances
 ---
 
 As an learning artist, I've used many devices for my art. I've used digital art apps on my Windows laptop and now on my iPad which I got earlier this year. iPads are a great device to use even for not art activities. 
+
+<script src="https://utteranc.es/client.js"
+        repo="LinuxGamer/sitebeta"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
