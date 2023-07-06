@@ -1,6 +1,6 @@
 ---
 title: Mastowhat?
-author: cj
+author: author
 date: 2023-06-03 21:55:00 +0000
 categories: [Tech]
 tags: [fediverse, social network, mastodon]
