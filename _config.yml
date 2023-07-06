@@ -59,7 +59,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
+author: cj
   name   : "CJ"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
