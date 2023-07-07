@@ -1,7 +1,7 @@
 ---
 title: Book Site Announcement
 author: 
-date: 2023-07-07 20:00:00 +0000
+date: 2023-07-07 19:24:00 +0000
 categories: [Tech]
 tags: [websites, webdev, books]
 render_with_liquid: false
