@@ -1,11 +1,11 @@
 ---
 title: Why I Chose To Switch To BSPWM
-description: Wayland may be the future, but it isn't the present, things are buggy and need a lot of work before they are ready for daily use.
-date: 2023-08-27
-tags:
- - BSPWM
- - Wayland
- - Review
+author: 
+date: 2023-08-27 10:00:00 +0800
+categories: [Linux]
+tags: [BSPWM, Linux, Wayland, Review]
+render_with_liquid: false
+comments: utterances
 ---
 
 ## Wayland may be the future, but it isn't the present, things are buggy and need a lot of work before they are ready for daily use.
